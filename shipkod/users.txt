@@ -1,0 +1,11 @@
+asa,123,C,asa,fasa,Male,12
+asaasa,123,M,asa,dsa,Male,12
+asaq,123,M,akif,selim,Male,13
+a,a,M,asa,asa,Male,12
+aa,aaa,M,asda,asdasd,Male,12
+q,q,C,akif,selilm,Male,16
+aabbcc,1234,C,aa,bb,Male,22
+efsanneh,1234,C,mustafacan,akıncı,Male,22
+asas,12345,M,aa,bb,Male,22
+asas,1234,M,fadime,akıncı,Female,47
+asasas,1234,C,fadimee,akıncı,Female,47
